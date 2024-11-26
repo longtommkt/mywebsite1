@@ -5,7 +5,7 @@ baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-author: Sal
+author: Daril
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us
@@ -33,7 +33,7 @@ authors:
     twitter: https://x.com/CamiloDaril
     description: "Polymath, Daril, is a sales specialist with expertise in various fields such as Human Resources management, Marketing, Political Science, and Game Development. With a broad perspective on business, exceptional interpersonal communication skills, bold leadership, and keen business acumen, he is the leader poised to become one of the biggest names in the gaming industry soon."
   john:
-    name: Miguel Camilo
+    name: Miguel Camilo<!-- Este é um comentário explicativo -->
     display_name: Miguel
     avatar: 'assets/images/john.png'
     email: miguel@longtom.ca
