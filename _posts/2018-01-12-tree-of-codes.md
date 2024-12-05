@@ -3,16 +3,13 @@ layout: post
 title:  "Team Kraken Hunters is in"
 author: Daril
 categories: [ Jekyll, tutorial ]
-image: assets/images/TKHSignUp.jpg
+image: assets/images/TKHSignUp.png
 ---
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
+I write this article with great joy, as I feel I am creating not just a company, but an organism that sustains itself and fosters cooperation and prosperity throughout the surrounding ecosystem. 
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+This is how I see the birth of Long Tom and Team Kraken Hunters as sister companies. While Team Kraken Hunters, as a studio, develops games using junior talent and trains the next generation of independent game developers, Long Tom transforms these games into competitive and popular products, simultaneously generating marketing and sales benchmarks for the entire gaming industry.
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+> I am already conducting the necessary research to "calibrate" Long Tom’s aim and kick off this alliance with a direct hit through the launch of Echoes of Madness. I am confident that this journey will establish a series of high-efficiency standards and a game-launching methodology that will bring financial predictability to Team Kraken Hunters. 
 
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”. 
-
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
-
+We hope this journey becomes a milestone in the independent gaming industry and positively impacts the lives of all employees of both companies, while creating memorable games for our consumers around the globe.
