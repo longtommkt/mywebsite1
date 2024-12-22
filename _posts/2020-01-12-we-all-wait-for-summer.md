@@ -1,9 +1,18 @@
 ---
 layout: post
-title:  "We all wait for summer"
+title:  "Echoes of Madness have a new name and a new playable build"
 categories: [ Jekyll, tutorial ]
-image: assets/images/1.jpg
+image: assets/images/1.png
 ---
-This is changed. As I engage in the so-called "bull sessions" around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the "brethren" think that <a href="#">education should equip</a> them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.
+After 4 months in pre-production, Team Kraken Hunters’ current project, previously known as "Echoes of Madness," will now be called "Flashes of Madness."
 
-It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.
+This decision was made due to the existence of other games with similar names, as well as the strong connection between the word "Flashes" and the game’s core mechanics. Even the cutscenes, which represent the protagonist's memories, align perfectly with the new name.
+
+In addition to the name change, the game has received two new builds (one for Mac and another for Windows). The Team Kraken Hunters crew has named these updates Beta 2.0.
+
+The new builds feature significant enhancements to the game’s art, as well as improvements to its systems and UI/UX design.
+
+The studio now aims to generate organic traffic to test the project and gather community feedback, ensuring development aligns closely with players’ expectations.
+
+If you haven’t played the latest build yet, you can check it out by clicking the link below:
+
