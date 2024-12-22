@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Flashes of Madness turn into one of the most popular game of it's genre on Itch.io"
-author: sal
+author: Daril
 categories: [ Jekyll, tutorial ]
 image: assets/images/2.png
 ---
