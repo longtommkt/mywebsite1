@@ -18,7 +18,7 @@ The studio now aims to generate organic traffic to test the project and gather c
 If you haven't tried the game yet, don't waste any more time and do so by clicking the link below:
 
 <p>
-    Confira o nosso jogo no Itch.io: 
+    Check out our game on Itch.io: 
     <a href="https://teamkrakenhunters.itch.io/flashes-of-madness" target="_blank">
         Flashes of Madness
     </a>.

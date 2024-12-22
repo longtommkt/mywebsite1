@@ -14,7 +14,7 @@ The studio’s vision is to become a beacon for other indie developers, creating
 If you haven't tried the game yet, don't waste any more time and do so by clicking the link below:
 
 <p>
-    Confira o nosso jogo no Itch.io: 
+    Check out our game on Itch.io: 
     <a href="https://teamkrakenhunters.itch.io/flashes-of-madness" target="_blank">
         Flashes of Madness
     </a>.
