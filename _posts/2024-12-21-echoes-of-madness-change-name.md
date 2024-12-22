@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Echoes of Madness have a new name and a new playable build"
-author: Daril
+author: daril
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.png
 ---

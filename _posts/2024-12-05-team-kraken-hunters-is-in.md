@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Team Kraken Hunters is in"
-author: Daril
+author: daril
 categories: [ Jekyll, tutorial ]
 image: assets/images/TKHSignUp.png
 ---
