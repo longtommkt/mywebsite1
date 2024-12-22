@@ -14,5 +14,12 @@ The new builds feature significant enhancements to the game’s art, as well as 
 
 The studio now aims to generate organic traffic to test the project and gather community feedback, ensuring development aligns closely with players’ expectations.
 
-If you haven’t played the latest build yet, you can check it out by clicking the link below:
+If you haven't tried the game yet, don't waste any more time and do so by clicking the link below:
+
+<p>
+    Confira o nosso jogo no Itch.io: 
+    <a href="https://teamkrakenhunters.itch.io/flashes-of-madness" target="_blank">
+        Flashes of Madness
+    </a>.
+</p>
 
