@@ -47,3 +47,10 @@ Currently playing? Dante’s Inferno and Zelda: Tears of the Kingdom
 Final message to our audience:
 
 Life is like a countdown that ends someday. Choose to spend your time doing what you love. Be the protagonist of your story, walk your own path, and never depend on anyone. It’s your life.
+
+<p>
+    If you want to check this amazing channel on youtube: 
+    <a href="https://www.youtube.com/@CreativeGamesOficial" target="_blank">
+        Creative Games
+    </a>.
+</p>
