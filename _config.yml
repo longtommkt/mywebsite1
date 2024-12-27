@@ -22,6 +22,11 @@ sass:
   style: :compressed
 ganalytics: UA-113961478-1
 
+# Site Meta Tags
+description: "Long Tom is the ultimate marketing agency for independent game developers, helping clients break into the thriving South American gaming market with innovative strategies and expert guidance."
+url: "https://www.longtom.ca"
+default_image: 'assets/images/default-preview.png'
+
 # Authors
 authors:
   daril:
@@ -33,7 +38,7 @@ authors:
     twitter: https://x.com/CamiloDaril
     description: "Polymath, Daril, is a sales specialist with expertise in various fields such as Human Resources management, Marketing, Political Science, and Game Development. With a broad perspective on business, exceptional interpersonal communication skills, bold leadership, and keen business acumen, he is the leader poised to become one of the biggest names in the gaming industry soon."
   john:
-    name: Miguel Camilo<!-- Este é um comentário explicativo -->
+    name: Miguel Camilo
     display_name: Miguel
     avatar: 'assets/images/john.png'
     email: miguel@longtom.ca
