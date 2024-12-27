@@ -4,6 +4,8 @@ title:  "Echoes of Madness have a new name and a new playable build"
 author: daril
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.png
+description: "Discover about the new build of Flashes of Madness in this post"
+image_alt: "Echoes of Madness is now Flashes of Madness and have a new build"
 ---
 After 4 months in pre-production, Team Kraken Hunters’ current project, previously known as "Echoes of Madness," will now be called "Flashes of Madness."
 

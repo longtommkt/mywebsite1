@@ -4,6 +4,8 @@ title:  "Breaking Down the Newzoo Global Games Market Report"
 author: daril
 categories: [ Jekyll, tutorial ]
 image: assets/images/4.png
+description: "Our analysis about Newzoo Global Games Market Report 2024"
+image_alt: "Understand how was the results of the game industry in 2024"
 ---
 The Global Games Market in 2024: A Surge in Growth and Regional Insights
 

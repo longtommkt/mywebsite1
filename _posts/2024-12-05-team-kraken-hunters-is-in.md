@@ -4,6 +4,8 @@ title:  "Team Kraken Hunters is in"
 author: daril
 categories: [ Jekyll, tutorial ]
 image: assets/images/TKHSignUp.png
+description:"Learn about the partnership between Long Tom and Team Kraken Hunters, aiming to create impactful benchmarks for the gaming industry."
+image_alt:"Team Kraken Hunters signing up"
 ---
 I write this article with great joy, as I feel I am creating not just a company, but an organism that sustains itself and fosters cooperation and prosperity throughout the surrounding ecosystem. 
 

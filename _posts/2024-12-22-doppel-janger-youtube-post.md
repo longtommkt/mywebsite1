@@ -4,6 +4,8 @@ title:  "@DoppelJanger Brings Flashes of Madness to YouTube"
 author: daril
 categories: [ Jekyll, tutorial ]
 image: assets/images/5.png
+description: "Doppel Janger is the first youtuber to do a playtest of Flashes of Madness in his channel"
+image_alt: "First Flashes of Madness gameplay on youtube"
 ---
 Doppel Janger is a new YouTuber on the platform. He primarily produces content about horror games, creating gameplay videos of indie titles in this genre and reacting authentically on his channel, providing a clear sense of the emotions and thoughts players will experience while playing the game.
 

@@ -4,6 +4,8 @@ title:  "Flashes of Madness turn into one of the most popular game of it's genre
 author: daril
 categories: [ Jekyll, tutorial ]
 image: assets/images/2.png
+description: "Flashes of Madness conquered it's space among the top popular games on itch"
+image_alt: "Flashes of Madness is getting the audience's attention on itch and it among the top popular games"
 ---
 Even in its beta stage, without its demo version fully released, Flashes of Madness, developed by the indie studio Team Kraken Hunters, is already ranked among the most popular games in its genre and category. This achievement is far from superficial, as the platform currently hosts over 5,300 games.
 
