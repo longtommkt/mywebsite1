@@ -2,7 +2,7 @@
 layout: post
 title:  "Echoes of Madness have a new name and a new playable build"
 author: daril
-categories: [ Jekyll, tutorial ]
+categories: [ Flashes of Madness, Game Updates ]
 image: assets/images/1.png
 description: "Discover about the new build of Flashes of Madness in this post"
 image_alt: "Echoes of Madness is now Flashes of Madness and have a new build"

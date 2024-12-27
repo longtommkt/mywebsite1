@@ -2,7 +2,7 @@
 layout: post
 title:  "Creatives Games is IN!"
 author: daril
-categories: [ Jekyll, tutorial ]
+categories: [ Long Tom, Content Creators ]
 image: assets/images/3.png
 description: "Creative Games signed up with Long Tom to 2025 and in the first member of our content creators team"
 image_alt: "Creative Games signed up with Long Tom and will open the brazilian game Market doors to north american game studios"

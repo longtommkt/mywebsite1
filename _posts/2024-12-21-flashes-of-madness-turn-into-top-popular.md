@@ -2,7 +2,7 @@
 layout: post
 title:  "Flashes of Madness turn into one of the most popular game of it's genre on Itch.io"
 author: daril
-categories: [ Jekyll, tutorial ]
+categories: [ Flashes of Madness, Game Updates ]
 image: assets/images/2.png
 description: "Flashes of Madness conquered it's space among the top popular games on itch"
 image_alt: "Flashes of Madness is getting the audience's attention on itch and it among the top popular games"

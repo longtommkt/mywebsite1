@@ -2,7 +2,7 @@
 layout: post
 title:  "@DoppelJanger Brings Flashes of Madness to YouTube"
 author: daril
-categories: [ Jekyll, tutorial ]
+categories: [ Flashes of Madness, Content Creators ]
 image: assets/images/5.png
 description: "Doppel Janger is the first youtuber to do a playtest of Flashes of Madness in his channel"
 image_alt: "First Flashes of Madness gameplay on youtube"
