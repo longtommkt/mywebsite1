@@ -3,40 +3,39 @@ title: Home
 layout: default
 background: '/img/bg-index.jpg'
 ---
+
 <!-- Meta Tags for Social Sharing -->
 <meta property="og:type" content="website">
 <meta property="og:title" content="Long Tom - Enter the Thriving South American Game Market">
 <meta property="og:description" content="Innovate your game marketing strategy by targeting the vast opportunities in the Brazilian gaming market.">
-<meta property="og:image" content="{{ site.baseurl }}\assets\images\default-preview.png">
+<meta property="og:image" content="{{ site.url }}/assets/images/default-preview.png">
 <meta property="og:url" content="{{ site.url }}/">
 <meta property="og:site_name" content="Long Tom">
 
+<!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Long Tom - Enter the Thriving South American Game Market">
 <meta name="twitter:description" content="Innovate your game marketing strategy by targeting the vast opportunities in the Brazilian gaming market.">
-<meta name="twitter:image" content="{{ site.baseurl }}\assets\images\default-preview.png">
+<meta name="twitter:image" content="{{ site.url }}/assets/images/default-preview.png">
 <meta name="twitter:site" content="@YourTwitterHandle">
 
-
-<!-- Home Intro
-================================================== -->
+<!-- Home Intro ================================================== -->
 {% if page.url == "/" %} 
 <div class="rounded mb-5 hero">
   <div class="row align-items-center justify-content-between">
     <div class="col-md-6">
       <h1 class="font-weight-bold mb-4 serif-font">Long Tom is the cannon your company needs to enter the thriving South American game market</h1>
       <p class="lead mb-4">Innovate: Instead of struggling and overspending to enter the North American market, explore the vast opportunities in the Brazilian gaming market.</p>
-      <a href="{{site.baseurl}}/about" class="btn btn-dark text-white px-5 btn-lg">About me</a>
+      <a href="{{ site.baseurl }}/about" class="btn btn-dark text-white px-5 btn-lg">About me</a>
     </div>
     <div class="col-md-6 text-right pl-0 pl-lg-4">
-      <img class="intro" height="500" src="{{site.baseurl}}\assets\images\default-preview.png">      
+      <img class="intro" height="500" src="{{ site.baseurl }}/assets/images/default-preview.png" alt="Long Tom Preview">
     </div>
   </div>
 </div>
 {% endif %}
 
-<!-- Featured
-================================================== -->
+<!-- Featured ================================================== -->
 <section class="row">
   {% for post in site.posts %}
       {% if post.featured == true %}
@@ -45,11 +44,9 @@ background: '/img/bg-index.jpg'
           </div>
       {% endif %}
   {% endfor %}
-  </div>
 </section>
 
-<!-- Posts List with Sidebar (except featured)
-================================================== -->
+<!-- Posts List with Sidebar (except featured) ================================================== -->
 <section class="row">
   <div class="col-sm-8">
     <div class="row">
